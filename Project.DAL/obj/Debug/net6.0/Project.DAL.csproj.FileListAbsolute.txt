@@ -1,0 +1,28 @@
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\bin\Debug\net6.0\Project.DAL.deps.json
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\bin\Debug\net6.0\Project.DAL.runtimeconfig.json
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\bin\Debug\net6.0\Project.DAL.dll
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\bin\Debug\net6.0\ref\Project.DAL.dll
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\bin\Debug\net6.0\Project.DAL.pdb
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\obj\Debug\net6.0\Project.DAL.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\obj\Debug\net6.0\Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\obj\Debug\net6.0\Project.DAL.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\obj\Debug\net6.0\Project.DAL.AssemblyInfo.cs
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\obj\Debug\net6.0\Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\obj\Debug\net6.0\Project.DAL.dll
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\obj\Debug\net6.0\ref\Project.DAL.dll
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\obj\Debug\net6.0\Project.DAL.pdb
+C:\Users\Victor\Desktop\проект\RMM-main(4)\RMM-main\Rmm.Domain\Rmm.Domain.DAL\obj\Debug\net6.0\Project.DAL.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\bin\Debug\net6.0\Project.DAL.deps.json
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\bin\Debug\net6.0\Project.DAL.runtimeconfig.json
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\bin\Debug\net6.0\Project.DAL.dll
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\bin\Debug\net6.0\ref\Project.DAL.dll
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\bin\Debug\net6.0\Project.DAL.pdb
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\obj\Debug\net6.0\Project.DAL.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\obj\Debug\net6.0\Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\obj\Debug\net6.0\Project.DAL.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\obj\Debug\net6.0\Project.DAL.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\obj\Debug\net6.0\Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\obj\Debug\net6.0\Project.DAL.dll
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\obj\Debug\net6.0\ref\Project.DAL.dll
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\obj\Debug\net6.0\Project.DAL.pdb
+C:\Users\Victor\Desktop\Новая папка (21)\Project\Rmm.Domain\Project.DAL\obj\Debug\net6.0\Project.DAL.genruntimeconfig.cache
