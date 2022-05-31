@@ -1,0 +1,135 @@
+@color-main: #760000;
+@color-used: #760000;
+@color-active: #760000;
+@color-hover: #760000;
+@color-bg: black;
+@color-alert: #760000;
+@color-empty: #A0A0A0;
+@color-bg-light: #760000;
+@color-bg-dark: #760000;
+
+* {
+    font-family: Sansation, Arial, Helvetica, sans-serif;
+    scrollbar-width: thin;
+}
+
+::-webkit-scrollbar {
+    width: 30px;
+  }
+  
+
+::-webkit-scrollbar-thumb {
+    background-color: #760000;
+    border: 5px solid transparent;
+    border-radius: 20px;
+    background-clip: content-box;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    font-size: 20px;
+    background-color: transparent;
+    border: solid 2px @color-main;
+    border-radius: 5px;
+    color: @color-main;
+    cursor: pointer;
+
+    &:hover {
+        color: @color-hover;
+        border-color: @color-hover;
+    }
+}
+
+.main-frame {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: @color-bg;
+}
+
+.loader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &:after {
+        height: 50%;
+        width: 50%;
+        display: block;
+        border-radius: 50%;
+        border: 6px solid blue;
+        border-color: @color-active transparent @color-active transparent;
+        content: " ";
+        animation: spin 1.2s linear infinite;
+    }
+}
+
+.sk {
+    background-color: black;
+
+    border: none;
+
+    &-line35 {
+        .line(35%);
+    }
+
+    &-line75 {
+        .line(75%);
+    }
+
+    .line(@width-px) {
+        width: @width-px;
+        height: 10px;
+        background-color: @color-main;
+        border-radius: 10px;
+    }
+
+    &-el {
+        &:after {
+            position: fixed;
+            height: 5px;
+            width: 80%;
+            animation: shimmer 2s infinite;
+            transform: translateX(-100%);
+            content: '';
+            background-image: linear-gradient(
+                90deg,
+                rgba(#fff, 0) 0,
+                rgba(#fff, 0.2) 20%,
+                rgba(#fff, 0.5) 60%,
+                rgba(#fff, 0)
+            );
+        }
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes shimmer {
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+@font-face {
+    font-family: 'Sansation';
+    src: url('./assets/fonts/Sansation_Regular.ttf');
+}
